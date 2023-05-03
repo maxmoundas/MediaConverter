@@ -1,3 +1,14 @@
+.DS_Store
+*.DS_Store
+
+*.json
+.json
+
+*.pickle
+.pickle
+
+DownloadedAudio/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
